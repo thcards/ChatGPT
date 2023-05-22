@@ -1,12 +1,11 @@
 :root {
-    --cor-de-fundo: 
-    background-color: #ce9a70;
+    --cor-de-fundo: rgb(0,0,0);
     --cor-de-fundo-url: url(./Imagens/peakpx.jpg);
     background-color: var(--cor-de-fundo);
     background-image: var(--cor-de-fundo-url);
     background-repeat: no-repeat;
     background-size: 100%;
-    background-position-y: center;
+    background-position-y: 0;
     image-rendering: optimizeSpeed;
     --cor-de-fundo-link: #0e090f;
     --cor-do-texto-link: #ffffff;
@@ -16,14 +15,14 @@
 }
 
 .tema-claro {
-    --cor-de-fundo: 
+    --cor-de-fundo: rgb(47,68,95);
     background-color: #000;
     --cor-de-fundo-url: url(./Imagens/pxfuel.jpg);
     background-color: var(--cor-de-fundo);
     background-image: var(--cor-de-fundo-url);
     background-repeat: no-repeat;
     background-size: 100%;
-    background-position-y: center;
+    background-position-y: 0;
     image-rendering: optimizeSpeed;
     --cor-de-fundo-link: #ffffff;
     --cor-do-texto-link: #070707;
