@@ -5,7 +5,7 @@
     background-color: var(--cor-de-fundo);
     background-image: var(--cor-de-fundo-url);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-position-y: center;
     image-rendering: optimizeSpeed;
     --cor-de-fundo-link: #0e090f;
@@ -22,7 +22,7 @@
     background-color: var(--cor-de-fundo);
     background-image: var(--cor-de-fundo-url);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-position-y: center;
     image-rendering: optimizeSpeed;
     --cor-de-fundo-link: #ffffff;
